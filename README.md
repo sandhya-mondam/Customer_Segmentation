@@ -8,7 +8,8 @@ Table of Contents:
 3. [Methodology](#Methodology)
 4. [Usage](#usage)
 5. [Dependencies](#Dependencies)
-6. [Contributing](#contributing)
+6. [Installation](#Installation)
+7. [Contributing](#contributing)
 
 
 
@@ -37,6 +38,12 @@ To use this code for customer segmentation with your own dataset:
 2.pandas
 3.scikit-learn
 4.matplotlib
+
+## Installation
+1. Clone the repository: `git clone <repository_url>`
+2. Navigate to the project directory: `cd Customer_Segmentation`
+3. upload Your own csv file in place of Customers.csv
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
