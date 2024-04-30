@@ -1,13 +1,18 @@
 # Customer_Segmentation
 Customer segmentation is the process of dividing customers into groups based on similar characteristics or behaviors. It helps businesses better understand their customers' needs and preferences, leading to more targeted marketing strategies and improved customer satisfaction. K-means clustering is a popular technique used for customer segmentation, as it can automatically partition customers into distinct groups based on their features.
 Table of Contents:
-1.[Objective].(##Objective##)
-2.[Dataset].(##Dataset##)
-3.[Methodology].(##Methodology##)
-4.[Usage].(##Usage##)
-5.[Dependencies].(##Dependencies##)
 
-##Objective##
+# Table of Contents
+1. [Objective](#Objevtive)
+2. [Dataset](#Dataset)
+3. [Methodology](#Methodology)
+4. [Usage](#usage)
+5. [Dependencies](#Dependencies)
+6. [Contributing](#contributing)
+
+
+
+##Objective
 The objective of this project is to demonstrate how K-means clustering can be applied to perform customer segmentation using Python and the scikit-learn library. By analyzing customer data, we aim to identify different segments of customers with similar attributes such as age, income, and spending behavior.
 
 ##Dataset##
